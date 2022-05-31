@@ -46,7 +46,7 @@ public class App
         else
             System.out.println("else condition");
     }
-
+     //User input
     public static void main( String[] args )
     {
         System.out.println( "Are you ready to play this game - Y or N?" );
